@@ -1,4 +1,11 @@
 # ALX _ PORTFOLIO
+
+
+<p align="center">
+  <img src="alxsvg.svg" />
+</p>
+
+
  <p align="justify"> I developed this website with the primary intention of establishing an  portfolio that effectively showcases my web presence, resume, personal narrative, and highlighted projects. Leveraging the dynamic capabilities of JavaScript, I integrated engaging visual effects through tools such as Particle.js. The website is powered by Jekyll for seamless content management, while Sass enhances the styling, and Gulp.js streamlines the build process.
 
 It's important to note that this portfolio project was a significant component of my Projects at Alx</p>
@@ -11,10 +18,6 @@ alx portfolio
 ## Screenshots
 
 ![App Screenshot](karimelaissaouy.png)
-
-
-![Logo](alxnn.png)
-
 
 ## Authors
 
